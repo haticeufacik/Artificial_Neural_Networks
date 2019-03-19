@@ -1,0 +1,25 @@
+﻿  MyForm.cpp
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(347): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(357): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(372): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(373): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(374): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(375): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(430): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(431): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(433): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(434): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(440): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(441): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(455): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(459): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(462): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(474): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(475): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(482): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(483): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(484): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(485): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(499): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daflan-pc\desktop\313907-hatice ufacik (1. öğr)\yapaysiniraglari\yapaysiniraglari\MyForm.h(500): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  YapaySinirAglari.vcxproj -> C:\Users\daflan-pc\Desktop\313907-Hatice UFACIK (1. öğr)\YapaySinirAglari\Debug\YapaySinirAglari.exe
